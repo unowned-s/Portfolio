@@ -2,7 +2,7 @@
 title: Watch your thoughts
 path: /watch-your-thoughts
 date: 2021-06-11
-summary: I get up in the morning, do my exercises or go running, come back wash the dishes of last night if any, freshen up, prepare breakfast...
+excerpt: I get up in the morning, do my exercises or go running, come back wash the dishes of last night if any, freshen up, prepare breakfast...
 tags: ['thoughts', 'emotions', 'mind', 'heart']
 author: Sanjeev
 published: true

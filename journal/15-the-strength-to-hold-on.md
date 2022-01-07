@@ -2,7 +2,7 @@
 title: The strength to hold on
 path: /the-strength-to-hold-on
 date: 2021-03-15
-summary: Good and bad incidents it's all there in the Bible. So we can come back to it every single time and learn to separate the real hurts from the pain that is amplified by our own lusts / longings.
+excerpt: Good and bad incidents it's all there in the Bible. So we can come back to it every single time and learn to separate the real hurts from the pain that is amplified by our own lusts / longings.
 tags: ['emotions', 'love', 'grief']
 author: Sanjeev
 published: false

@@ -2,7 +2,7 @@
 title: Learning to listen
 path: /learning-to-listen
 date: 2020-05-28
-summary: In an age of showing concern or raising a voice, staying quiet is considered as sin...
+excerpt: In an age of showing concern or raising a voice, staying quiet is considered as sin...
 tags: ['learning', 'resolved']
 author: Sanjeev
 published: true

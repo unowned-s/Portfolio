@@ -2,7 +2,7 @@
 title: popcorn or some nuts
 path: /popcorn-or-some-nuts
 date: 2020-05-01
-summary: Every time I allow myself to look at a girl, (of course with an intention of getting married), I imagine _"could she my one and only?"_. But this is what is going on in my imaginary world.
+excerpt: Every time I allow myself to look at a girl, (of course with an intention of getting married), I imagine _"could she my one and only?"_. But this is what is going on in my imaginary world.
 tags: ['']
 author: Sanjeev
 published: false

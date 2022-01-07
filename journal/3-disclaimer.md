@@ -2,7 +2,7 @@
 title: Disclaimer
 path: /disclaimer
 date: 2018-06-02
-summary: Be rest assured that you are completely safe here.
+excerpt: Be rest assured that you are completely safe here.
 tags: ['']
 author: Sanjeev
 published: false

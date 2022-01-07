@@ -2,7 +2,7 @@
 title: A baby Christian
 path: /a-baby-christian
 date: 2021-03-14
-summary: Saul was required just plain, simple, obedience, no putting on a show. God is not impressed with the kind of stuff we do as much as He is with obedience.
+excerpt: Saul was required just plain, simple, obedience, no putting on a show. God is not impressed with the kind of stuff we do as much as He is with obedience.
 tags: ['emotions', 'love', 'grief']
 author: Sanjeev
 published: false

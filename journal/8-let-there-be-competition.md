@@ -2,7 +2,7 @@
 title: Let there be competition
 path: /let-there-be-competition
 date: 2021-06-15
-summary: I have my friends who are musicians, who make a living on it. A few make it big, and a few struggle. Here's what I think separates those who make good music and those who make really great ones.
+excerpt: I have my friends who are musicians, who make a living on it. A few make it big, and a few struggle. Here's what I think separates those who make good music and those who make really great ones.
 tags: ['competition', 'goal', 'music']
 author: Sanjeev
 published: true

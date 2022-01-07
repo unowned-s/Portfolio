@@ -2,7 +2,7 @@
 title: A side note
 path: /a-side-note
 date: 2021-03-14
-summary: Our fight is not flesh and blood.
+excerpt: Our fight is not flesh and blood.
 tags: ['note']
 author: Sanjeev
 published: false

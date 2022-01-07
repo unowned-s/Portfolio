@@ -2,7 +2,7 @@
 title: Career Goals and Influences
 path: /career-goals-and-influences
 date: 2020-05-01
-summary: Career Goals and Influences
+excerpt: Career Goals and Influences
 tags: ['career', 'goals', 'thankful']
 author: Sanjeev
 published: false

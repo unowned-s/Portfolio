@@ -2,7 +2,7 @@
 title: Creating habits
 path: /creating-habits
 date: 2021-05-31
-summary: Easier said than done, every hobby needs time. Time is something we all have it, (yes we all have). We are not different from anybody else who have gone a long way to follow through their dreams.
+excerpt: Easier said than done, every hobby needs time. Time is something we all have it, (yes we all have). We are not different from anybody else who have gone a long way to follow through their dreams.
 tags: ['hobbies', 'goals']
 author: Sanjeev
 published: false

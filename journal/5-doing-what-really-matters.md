@@ -2,7 +2,7 @@
 title: Doing what really matters
 path: /doing-what-really-matters
 date: 2021-05-30
-summary: Countless hours are spent scrolling through profiles and pages. What you scroll is just user generated content. It keeps feeding our craving for such information. Read on..
+excerpt: Countless hours are spent scrolling through profiles and pages. What you scroll is just user generated content. It keeps feeding our craving for such information. Read on..
 tags: ["social-media", "user-generated-content"]
 author: Sanjeev
 published: true

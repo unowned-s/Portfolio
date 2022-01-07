@@ -2,7 +2,7 @@
 title: Teaching Kids
 path: /teaching-kids
 date: 2020-05-01
-summary: Teaching Kids
+excerpt: Teaching Kids
 tags: ['']
 author: Sanjeev
 published: false

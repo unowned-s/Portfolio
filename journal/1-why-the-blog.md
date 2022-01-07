@@ -2,7 +2,7 @@
 title: Why the blog
 path: /why-the-blog
 date: 2020-05-01
-summary: My goal in coming up with this portfolio site and blog was just to start writing about Technology and Theology.
+excerpt: My goal in coming up with this portfolio site and blog was just to start writing about Technology and Theology.
 tags: ['']
 author: Sanjeev
 published: true

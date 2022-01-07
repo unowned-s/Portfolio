@@ -2,7 +2,7 @@
 title: Swoop down on the spoil
 path: /swoop-down-on-the-spoil
 date: 2021-03-14
-summary: The bleating of the sheep and the lowing of the oxen
+excerpt: The bleating of the sheep and the lowing of the oxen
 tags: ['obedience']
 author: Sanjeev
 published: false

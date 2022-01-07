@@ -8,7 +8,7 @@ author: Sanjeev
 published: false
 ---
 
-![background](./images/goan_scenery_1.jpg)
+![background](/uploads/goan_scenery_1.jpg)
 <small>_Greenery of Goa, Photo by Sanjeev._</small>
 
 _<small>Please read <a href="/my-great-exploits">first part</a> of this series to get a bit of context. This one is going to be a little hard to take in, so put on your seat-belts.</small>_

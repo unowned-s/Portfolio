@@ -8,7 +8,7 @@ author: Sanjeev
 published: true
 ---
 
-<!-- ![background](./images/goan_scenery_1.jpg)
+<!-- ![background](/uploads/goan_scenery_1.jpg)
 <small>_Greenery of Goa, Photo by Sanjeev._</small> -->
 After a not so hectic day, I log off from my working hours and turn to some leisure time. I normally play some songs, usually worship (instrumental) or contemporary gospel.
 

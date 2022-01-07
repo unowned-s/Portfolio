@@ -8,7 +8,7 @@ author: Sanjeev
 published: false
 ---
 
-![background](./images/blog_bg_3.jpg)
+![background](/uploads/blog_bg_3.jpg)
 
 <!-- >I am that prodigal son who doesn't have to prepare a speech so that my Father can accept me, for I know He's gonna throw a party before I can utter any words. - (Paraphrased) -->
 _<small>Please read <a href="/a-baby-christian">second part</a> of this series to get a bit of context.</small>_

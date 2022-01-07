@@ -8,7 +8,7 @@ author: Sanjeev
 published: true
 ---
 
-![background](./images/goan_scenery_2.jpg)
+![background](/uploads/goan_scenery_2.jpg)
 <small>Sunset at Bambolim Beach, Goa. Photo by Sanjeev</small>
 
 > <small>Warning: _This post is not about some kind of philosophy or a man-focused theology or self-introspection. I will not be held responsible if anything from here is quoted/printed with my initials on it. These are just my thoughts which may not really have anything to support, please discern. Let's read on..._ </small>

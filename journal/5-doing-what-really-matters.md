@@ -8,7 +8,7 @@ author: Sanjeev
 published: true
 ---
 
-![background](./images/socialicons.jpg)
+![background](/uploads/socialicons.jpg)
 <small>Photo by <a href="https://unsplash.com/@camstejim?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">camilo jimenez</a> on <a href="https://unsplash.com/s/photos/social-media?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small>
 
 Countless hours are spent scrolling through profiles and pages. What we scroll is just user-generated content. It keeps feeding our craving for such information.

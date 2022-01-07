@@ -8,7 +8,7 @@ author: Sanjeev
 published: true
 ---
 
-<!-- ![background](./images/listening.jpg)
+<!-- ![background](/uploads/listening.jpg)
 <small>Photo by <a href="https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adi Goldstein</a> on <a href="https://unsplash.com/s/photos/argument?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></small> -->
 
 <!-- > We all know the verse "to him who knows to do good and does not do it, to him it is sin". -->

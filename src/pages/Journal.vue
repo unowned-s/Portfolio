@@ -2,9 +2,9 @@
   <Layout>
     <div class="container">
       <div class="journal-hero">
-        <h1 class="journal-header">
+        <h3 class="journal-header">
           a wise person once said...
-        </h1>
+        </h3>
       </div>
     </div>
 
@@ -69,7 +69,8 @@ export default {};
   background-color: var(--color-base-1);
 }
 .journal-post:hover > * {
-  transform: translateX(4rem);
+  transform: translateY(-1rem);
+  /*transform: translateX(4rem);*/
 }
 .journal-post h1,
 .journal-post h2 {

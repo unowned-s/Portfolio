@@ -9,7 +9,7 @@
       <div class="left">
         <g-link :to="{ name: 'home' }" class="home-link">
           <img
-            src="../../static/logo.png"
+            src="../../static/logo.svg"
             :alt="settings.site_name"
             class="logo"
           />
@@ -39,6 +39,7 @@ export default {
   position: relative;
   height: 6rem;
   z-index: 10;
+  background-color: #fff;
 }
 .header.sticky {
   position: fixed;

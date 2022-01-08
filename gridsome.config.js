@@ -3,12 +3,11 @@
 
 module.exports = {
   siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://www.sanjeevcn.netlify.app`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
-  plugins: [
-    {
+  titleTemplate: "%s - Sanjeevcn",
+  siteDescription: "Christ Follower. iOS Developer. Avid Reader. Creative Technologist",
+  plugins: [{
       use: "@gridsome/source-filesystem",
       options: {
         path: "projects/**/*.md",

@@ -43,6 +43,10 @@ export default {};
 </script>
 
 <style scoped>
+.container {
+  max-width: 840px;
+}
+
 .contact-header {
   padding: 2rem 0 4rem 0;
 }

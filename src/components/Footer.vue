@@ -2,6 +2,8 @@
   <footer class="footer">
     <div class="container">
       <span v-html="settings.footer" />
+      <span> | <g-link class="nav__link" to="/journal">Journal</g-link></span>
+      <span> | <g-link class="nav__link" to="/contact">Say Hi!</g-link></span>
     </div>
   </footer>
 </template>
@@ -20,5 +22,6 @@ export default {
 .footer {
   font-size: 1rem;
   padding: 6rem 0;
+  text-decoration: none;
 }
 </style>

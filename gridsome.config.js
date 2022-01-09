@@ -4,9 +4,9 @@
 module.exports = {
   siteName: "Portfolio",
   siteUrl: `https://www.sanjeevcn.netlify.app`,
-  host: "0.0.0.0",
-  titleTemplate: "%s - Sanjeevcn",
-  siteDescription: "Christ Follower. iOS Developer. Avid Reader. Creative Technologist",
+  // host: "0.0.0.0",
+  // titleTemplate: "%s 👨‍💻",
+  // siteDescription: "Christ Follower. iOS developer & enthusiast. Avid Reader.",
   plugins: [{
       use: "@gridsome/source-filesystem",
       options: {

@@ -48,9 +48,9 @@ export default {
     Hero,
     ProjectsGrid,
     LatestJournals
-  },
-  metaInfo: {
-    title: "Home"
+    // },
+    // metaInfo: {
+    //   title: "👨‍💻"
   }
 };
 </script>

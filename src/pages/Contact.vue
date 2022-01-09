@@ -10,12 +10,27 @@
       </div>
 
       <form
+        name="contact"
+        method="POST"
+        netlify
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
+      >
+        <input type="text" name="name" placeholder="Name" />
+        <input type="email" name="email" placeholder="Email" />
+        <textarea name="message" placeholder="Message"></textarea>
+        <button type="submit" class="button">Submit</button>
+      </form>
+
+      <!--
+      <form
         method="POST"
         action="/thanks"
+        netlify
         data-netlify="true"
         data-netlify-recaptcha="true"
         class="contact-form"
-        name="Portfolio"
+        name="portfolio"
       >
         <div class="sender-info">
           <div>
@@ -35,7 +50,7 @@
         <div data-netlify-recaptcha="true"></div>
 
         <button class="button">Submit form</button>
-      </form>
+      </form> -->
     </div>
   </Layout>
 </template>

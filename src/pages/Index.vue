@@ -10,24 +10,28 @@
 
 <page-query>
 query Posts {
-	projects: allProjectPost {
+	projects: allProjectPost(filter: {published: {eq: true}}) {
     edges {
       node {
         id
-        date (format: "YYYY")
         title
+        date (format: "MMMM D, Y")
         categories
+        timeToRead
         thumbnail (quality: 90)
         path
+        published
       }
     }
   },
-  journals: allJournalPost (perPage: 4) {
+  journals: allJournalPost (perPage: 4, sortBy: "date", filter: { published: {eq: true}}) {
     edges {
       node {
         id
         path
         title
+        date (format: "MMMM D, Y")
+        published
       }
     }
   }
@@ -44,6 +48,9 @@ export default {
     Hero,
     ProjectsGrid,
     LatestJournals
+  },
+  metaInfo: {
+    title: "Home"
   }
 };
 </script>

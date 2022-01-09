@@ -3,7 +3,7 @@ title: popcorn or some nuts
 path: /popcorn-or-some-nuts
 date: 2020-05-01
 excerpt: Every time I allow myself to look at a girl, (of course with an intention of getting married), I imagine _"could she my one and only?"_. But this is what is going on in my imaginary world.
-tags: ['']
+tags: [""]
 author: Sanjeev
 published: false
 ---
@@ -15,4 +15,5 @@ If have any hint that the girl is a Christian, I go full speed, no wasting time 
 Waits for a few days, rescues me, leaves me crying (which he knows is nothing new) and then off he goes into the unknown.
 
 > Please don't think that's how angels operate, second they don't use bad language, third they are assigned task, that is to watch over us, they never get tired of doing.
+
 <!-- Imagine there's rejoicing over repentance of one sinner. They do eat when invited but not popcorns. When the angel of the Lord went to rescue Lot, they were invited to eat. The reason they are in heaven is because there is no uncleanness in them I guess. You cannot be in the presence of a Holy God with any of your unholiness. -->

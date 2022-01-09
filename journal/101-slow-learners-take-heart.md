@@ -1,14 +1,17 @@
 ---
 date: 2022-01-01
 title: Slow learners, take heart!
-author: Nichlas W. Andersen
+author: Sanjeev
 excerpt: In a world of quick learning, people are in a big rush to learn just about everything.
+published: true
 ---
 
 ![](/uploads/daniel-romero-73tFTwOrKPg-unsplash.jpg)
+Photo by Daniel Romero on Unsplash
 
 In a world of quick learning, people are in a big rush to learn just about everything.
-Photo by Daniel Romero on UnsplashI'm a "software engineer" and I am kinda proud to say that, well… not really. Why coz I never wanted to become one, super honest here. In high school, I did Vocational Studies with a focus on Automobile Engineering, I never knew I wanted to do that. I cleared the exams with just enough grades and soon after, I started working as a sales representative on a door-to-door sales job and…. if you're guessing I didn't want to be that either.
+I'm a "software engineer" and I am kinda proud to say that, well… not really. Why coz I never wanted to become one, super honest here. In high school, I did Vocational Studies with a focus on Automobile Engineering, I never knew I wanted to do that. I cleared the exams with just enough grades and soon after, I started working as a sales representative on a door-to-door sales job and…. if you're guessing I didn't want to be that either.
+
 I grew up partly never figuring out what am I going to do all my life, or do I even have to worry about it. I walked into every door not knowing anything.
 
 ## The career and the discipline!!

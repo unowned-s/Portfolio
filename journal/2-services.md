@@ -5,33 +5,23 @@ date: 2018-06-01
 excerpt: My services, and the pricing.
 tags: [""]
 author: Sanjeev
-published: false
+published: true
 ---
 
-We are a group of individuals, coming together to do freelance work for people in need. Some of us are currently employed full-time and would like to follow strict guidelines and work ethics. That is why we do not plan to take any work at all. However, below are the list of services, which we take for weekends only. Again, if the project is big, we will not be able to take it. You are free to go ahead and get it done elsewhere. We will definitely want to help others, so please do get in touch.
+# Here's what I can do for you..
 
-| Sr.no | Name/Service          |
-| :---: | :-------------------- |
-|  1.   | Single Page Website\* |
-|  2.   | Multi Page Website\*  |
-|  3.   | Website with Blog\*   |
-|  4.   | Android/iOS App       |
-|  5.   | Graphic Design        |
-|  6.   | Maintenance           |
-|  7.   | Fix a Web/App Issue   |
+I can come and sit with you over a coffee and talk on anything. My favourite is theology, I can go on and on and talk about it, believe me when I say I'm really good. We can also talk on some of our life journeys.
 
-<!-- | Sr.no | Name/Service        | Price/Rs. | Time/hrs |
-| :----:|:--------------------| ---------:| --------:|
-| 1.    | One page website*   | 5500      | 8        |
-| 2.    | Three page website* | 8500      | 8        |
-| 3.    | Website with blog*  | 10500     | 16       |
-| 4.    | Android App         | 250/hrs   | -        |
-| 5.    | iOS App             | 250/hrs   | -        |
-| 6.    | Graphic Design      | 250/hrs   | -        |
-| 7.    | Maintenance         | 2500/Year | 10       |
-| 8.    | Fix an Issue        | 150/hrs   | -        |-->
+Next..
 
-<small><br>Terms and conditions apply.
-<br>\* Domain and Hosting will be charged separately.</small>
+I can spin up a website like this in minutes and make your business / portfolio up and running on the the web, and optimise it as per your requirement.
 
-Looking for something else? or if you'd like to work with us? <a href="tel:940-326-9996">let's talk</a>.
+I can develop a highly scalable mobile app (only iOS for now) with the best of code practices.
+
+I can also make some simple stuffs like make a video and create logos and design some good graphics.
+
+You won't believe it when I say I can do all these for free.. only if you tell me I'm a nice guy :D
+
+Looking for something else? or if you'd like to work with me?.
+
+Please call and <a href="tel:940-326-9996">let's talk</a>.

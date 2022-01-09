@@ -16,21 +16,36 @@
     >
       <div class="container journal">
         <h2 class="journal-title">{{ item.node.title }}</h2>
+        <small class="journal-date"
+          >Published on: {{ item.node.date }}, {{ item.node.timeToRead }} min
+          read</small
+        >
         <p class="journal-excerpt">{{ item.node.excerpt }}</p>
       </div>
     </g-link>
+
+    <div class="pagination">
+      <Pager :info="$page.posts.pageInfo" />
+    </div>
   </Layout>
 </template>
 
 <page-query>
-query Journal {
-	posts: allJournalPost {
+query Journal($page: Int) {
+	posts: allJournalPost(sortBy: "date", order: DESC, perPage: 3, page: $page, filter: { published: {eq: true}}) @paginate {
+    pageInfo {
+      totalPages
+      currentPage
+    }
     edges {
       node {
         id
         path
         title
         excerpt
+        timeToRead
+        date (format: "DD MMM, YYYY")
+        published
       }
     }
   }
@@ -38,12 +53,17 @@ query Journal {
 </page-query>
 
 <script>
-export default {};
+import { Pager } from "gridsome";
+export default {
+  components: {
+    Pager
+  }
+};
 </script>
 
 <style scoped>
 .container.journal {
-  max-width: 840px;
+  max-width: 900px;
 }
 .journal-hero {
   padding: 4rem 0;
@@ -81,8 +101,28 @@ export default {};
   font-size: 2rem;
   color: var(--color-contrast);
 }
+
+.journal-date {
+  font-size: 1rem;
+  line-height: 3rem;
+  color: var(--color-contrast-2);
+}
+
 .journal-excerpt {
+  line-height: 1.5rem;
   color: var(--color-contrast-1);
+}
+
+.pagination {
+  margin: 0 auto;
+  max-width: 900px;
+  display: table;
+  align-items: center;
+}
+.pagination nav a {
+  padding: 1rem;
+  text-decoration: none;
+  font-size: large;
 }
 
 @media (min-width: 560px) {

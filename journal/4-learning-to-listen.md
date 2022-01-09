@@ -3,9 +3,9 @@ title: Learning to listen
 path: /learning-to-listen
 date: 2020-05-28
 excerpt: In an age of showing concern or raising a voice, staying quiet is considered as sin...
-tags: ['learning', 'resolved']
+tags: ["learning", "resolved"]
 author: Sanjeev
-published: true
+published: false
 ---
 
 <!-- ![background](/uploads/listening.jpg)
@@ -18,7 +18,7 @@ In an age of showing concern or raising a voice, staying quiet is considered a s
 Honestly, I do not know. I'm a complete introvert when it comes to online presence or even otherwise I tread so carefully. I have resorted to a much better place and that is _learning how to listen_. Listening to what is being shared. Of course, It matters what the subject or the issue is about, but in most cases, there is no need to indulge in just about everything.
 
 > _Even a fool is counted wise when he holds his peace;
-When he shuts his lips, he is considered perceptive._ - **Proverbs 17:28**
+> When he shuts his lips, he is considered perceptive._ - **Proverbs 17:28**
 
 Every day so much content is posted, the majority of it just feeds on _what we want to listen_. Something _that makes us feel good about ourselves_. Some are driven with an agenda to keep brainwashing the people (they don't know they do it 😢). Some are just trying to make a point. Our fads/ideologies need a constant level of energy/refuelling to sustain them. Eventually, it will drain us out. Truth doesn't need any of that. Truth can defend itself and sustain itself. It doesn't have a deadline, no expiry.
 

@@ -2,8 +2,8 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.sanjeevcn.netlify.app`,
+  siteName: "NautiBuoy",
+  siteUrl: `http://www.nautibuoy.co.in`,
   // host: "0.0.0.0",
   // titleTemplate: "%s 👨‍💻",
   // siteDescription: "Christ Follower. iOS developer & enthusiast. Avid Reader.",

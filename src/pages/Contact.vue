@@ -9,48 +9,27 @@
         </p>
       </div>
 
-      <form
-        name="Contact"
-        method="POST"
-        netlify
-        data-netlify="true"
-        data-netlify-honeypot="bot-field"
-      >
-        <input type="text" name="name" placeholder="Name" />
-        <input type="email" name="email" placeholder="Email" />
-        <textarea name="message" placeholder="Message"></textarea>
-        <button type="submit" class="button">Submit</button>
-      </form>
+      <form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 
-      <!--
-      <form
-        method="POST"
-        action="/thanks"
-        netlify
-        data-netlify="true"
-        data-netlify-recaptcha="true"
-        class="contact-form"
-        name="portfolio"
-      >
-        <div class="sender-info">
-          <div>
-            <label for="name" class="label">Your name</label>
-            <input type="text" name="name" />
-          </div>
-          <div>
-            <label for="email" class="label">Your email</label>
-            <input type="email" name="email" />
-          </div>
-        </div>
-
-        <div class="message">
-          <label for="message" class="label">Message</label>
-          <textarea name="message"></textarea>
-        </div>
-        <div data-netlify-recaptcha="true"></div>
-
-        <button class="button">Submit form</button>
-      </form> -->
     </div>
   </Layout>
 </template>

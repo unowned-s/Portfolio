@@ -4,7 +4,7 @@
       <div class="contact-header">
         <h1 class="contact-title">Say hi!</h1>
         <p>
-          Leave us a note with any questions you might have, We'll get back to
+          Leave us a note with any questions you might have, we'll get back to
           you as soon as possible.
         </p>
       </div>
@@ -37,7 +37,7 @@
           <textarea name="message" v-model="formData.message"></textarea>
         </div>
 
-        <button type="submit">Submit form</button>
+        <button class="button" type="submit">Submit form</button>
       </form>
     </div>
   </Layout>

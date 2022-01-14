@@ -17,8 +17,8 @@
       <div class="container journal">
         <h2 class="journal-title">{{ item.node.title }}</h2>
         <small class="journal-date"
-          >Published on: {{ item.node.date }}, {{ item.node.timeToRead }} min
-          read</small
+          >{{ item.node.date }} &middot; By {{ item.node.author }} &middot;
+          {{ item.node.timeToRead }} min read</small
         >
         <p class="journal-excerpt">{{ item.node.excerpt }}</p>
       </div>
@@ -43,6 +43,7 @@ query Journal($page: Int) {
         path
         title
         excerpt
+        author
         timeToRead
         date (format: "DD MMM, YYYY")
         published

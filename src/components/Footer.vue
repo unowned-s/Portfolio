@@ -1,9 +1,9 @@
 <template>
   <footer class="footer">
-    <div class="container">
-      <span v-html="settings.footer" />
-      <span> | <g-link class="nav__link" to="/journal">Journal</g-link></span>
-      <span> | <g-link class="nav__link" to="/contact">Say Hi!</g-link></span>
+    <div class="container copyright">
+      <span>© {{ new Date().getFullYear() }} {{ settings.site_name }}</span
+      ><br />
+      <small v-html="settings.footer" />
     </div>
   </footer>
 </template>
@@ -23,5 +23,9 @@ export default {
   font-size: 1rem;
   padding: 6rem 0;
   text-decoration: none;
+}
+.copyright {
+  margin: 0 auto;
+  text-align: center;
 }
 </style>

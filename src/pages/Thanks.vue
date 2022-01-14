@@ -4,7 +4,7 @@
       <div class="contact-header">
         <h1 class="contact-title">Hey Thanks!</h1>
         <p>
-          Thank you for submitting the details. I'll get back to you as soon as
+          Thank you for submitting the details. We'll get back to you as soon as
           possible.
         </p>
       </div>

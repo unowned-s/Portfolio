@@ -5,8 +5,9 @@ module.exports = {
   siteName: "NautiBuoy",
   siteUrl: `http://www.nautibuoy.co.in`,
   // host: "0.0.0.0",
-  // titleTemplate: "%s 👨‍💻",
-  // siteDescription: "Christ Follower. iOS developer & enthusiast. Avid Reader.",
+  titleTemplate: "%s",
+  // siteDescription: "",
+  // icon: 'src/favicon.png',
   plugins: [{
       use: "@gridsome/source-filesystem",
       options: {

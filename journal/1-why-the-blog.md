@@ -5,7 +5,7 @@ date: 2020-05-01
 excerpt: My goal in coming up with this portfolio site and blog was just to start writing about Technology and Theology.
 tags: [""]
 author: Sanjeev
-published: true
+published: false
 ---
 
 <h3  class="text-xl font-sans">This is more than just a portfolio or a blog.</small></h3>

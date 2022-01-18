@@ -5,7 +5,7 @@ date: 2021-05-30
 excerpt: Countless hours are spent scrolling through profiles and pages. What you scroll is just user generated content. It keeps feeding our craving for such information. Read on..
 tags: ["social-media", "user-generated-content"]
 author: Sanjeev
-published: true
+published: false
 ---
 
 ![background](/uploads/socialicons.jpg)

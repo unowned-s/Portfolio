@@ -3,7 +3,7 @@ date: 2022-01-01
 title: Slow learners, take heart!
 author: Sanjeev
 excerpt: In a world of quick learning, people are in a big rush to learn just about everything.
-published: true
+published: false
 ---
 
 ![](/uploads/daniel-romero-73tFTwOrKPg-unsplash.jpg)

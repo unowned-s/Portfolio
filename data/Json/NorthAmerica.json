@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Anguilla",
+    "capital": "The Valley"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "capital": "Saint John's"
+  },
+  {
+    "name": "Aruba",
+    "capital": "Oranjestad"
+  },
+  {
+    "name": "Bahamas",
+    "capital": "Nassau"
+  },
+  {
+    "name": "Barbados",
+    "capital": "Bridgetown"
+  },
+  {
+    "name": "Belize",
+    "capital": "Belmopan"
+  },
+  {
+    "name": "Bermuda",
+    "capital": "Hamilton"
+  },
+  {
+    "name": "British Virgin Islands",
+    "capital": "Road Town"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa"
+  },
+  {
+    "name": "Cayman Islands",
+    "capital": "George Town"
+  },
+  {
+    "name": "Costa Rica",
+    "capital": "San José"
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana"
+  },
+  {
+    "name": "Curacao",
+    "capital": "Willemstad"
+  },
+  {
+    "name": "Dominica",
+    "capital": "Roseau"
+  },
+  {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo"
+  },
+  {
+    "name": "El Salvador",
+    "capital": "San Salvador"
+  },
+  {
+    "name": "Greenland",
+    "capital": "Nuuk"
+  },
+  {
+    "name": "Grenada",
+    "capital": "St. George's"
+  },
+  {
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre"
+  },
+  {
+    "name": "Guatemala",
+    "capital": "Guatemala City"
+  },
+  {
+    "name": "Haiti",
+    "capital": "Port-au-Prince"
+  },
+  {
+    "name": "Honduras",
+    "capital": "Tegucigalpa"
+  },
+  {
+    "name": "Jamaica",
+    "capital": "Kingston"
+  },
+  {
+    "name": "Martinique",
+    "capital": "Fort-de-France"
+  },
+  {
+    "name": "Mexico",
+    "capital": "Mexico City"
+  },
+  {
+    "name": "Montserrat",
+    "capital": "Plymouth"
+  },
+  {
+    "name": "Nicaragua",
+    "capital": "Managua"
+  },
+  {
+    "name": "Panama",
+    "capital": "Panama City"
+  },
+  {
+    "name": "Puerto Rico",
+    "capital": "San Juan"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "capital": "Gustavia"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "capital": "Basseterre"
+  },
+  {
+    "name": "Saint Lucia",
+    "capital": "Castries"
+  },
+  {
+    "name": "Saint Martin",
+    "capital": "Marigot"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown"
+  },
+  {
+    "name": "Sint Maarten",
+    "capital": "Philipsburg"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "capital": "Cockburn Town"
+  },
+  {
+    "name": "United States",
+    "capital": "Washington D.C."
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "capital": ""
+  },
+  {
+    "name": "United States Virgin Islands",
+    "capital": "Charlotte Amalie"
+  }
+]

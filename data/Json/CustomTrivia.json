@@ -1,0 +1,135 @@
+{
+    "trivia_categories":
+    [
+        [
+            {
+                "id": 10,
+                "name": "10",
+                "category": "Quick Trivia",
+                "style": 0,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 20,
+                "name": "20",
+                "category": "Quick Trivia",
+                "style": 0,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 50,
+                "name": "50",
+                "category": "Quick Trivia",
+                "style": 0,
+                "version": 1,
+                "url": ""
+            }
+        ],
+        [
+            {
+                "id": 51,
+                "name": "Asia",
+                "category": "Capital: Continents",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 52,
+                "name": "Oceania",
+                "category": "Capital: Continents",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 53,
+                "name": "Africa",
+                "category": "Capital: Continents",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 54,
+                "name": "Europe",
+                "category": "Capital: Continents",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 55,
+                "name": "North America",
+                "category": "Capital: Continents",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 56,
+                "name": "South America",
+                "category": "Capital: Continents",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 57,
+                "name": "America",
+                "category": "Capital: Others",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            }
+        ],
+        [
+            {
+                "id": 61,
+                "name": "World",
+                "category": "Capital: Others",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 62,
+                "name": "India",
+                "category": "Capital: Others",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            },
+            {
+                "id": 63,
+                "name": "Australia",
+                "category": "Capital: Others",
+                "style": 1,
+                "version": 1,
+                "url": ""
+            }
+        ],
+        [
+            {
+                "id": 71,
+                "name": "British History",
+                "category": "History",
+                "style": 2,
+                "version": 1,
+                "url": ""
+            }
+        ],
+        [
+            {
+                "id": 81,
+                "name": "Java",
+                "category": "Software Engineering",
+                "style": 2,
+                "version": 1,
+                "url": ""
+            }
+        ]
+    ]
+}

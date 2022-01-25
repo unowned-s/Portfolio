@@ -1,0 +1,418 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the capital of Roman Britain?",
+      "correct_answer": "Camulodunum (Colchester)",
+      "incorrect_answers": [
+        "Londinium (London)",
+        "Deva Victrix (Chester)",
+        "Verulamium (St Albans)"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first Archbishop of Canterbury?",
+      "correct_answer": "St Augustine",
+      "incorrect_answers": ["St Justus", "St Honorius", "St Laurence"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year did the victorious Normans start work on the Domesday book?",
+      "correct_answer": "1085",
+      "incorrect_answers": ["1076", "1067", "1091"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was crowned as the first king of all England ?",
+      "correct_answer": "Athelstan the Glorious",
+      "incorrect_answers": [
+        "Alfred the Great",
+        "Edward the Confessor",
+        "William the Conqueror"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In What year did King Henry VIII split from Rome ?",
+      "correct_answer": "1536",
+      "incorrect_answers": ["1541", "1532", "1538"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which English Monarch signed the Magna Carta ?",
+      "correct_answer": "King John",
+      "incorrect_answers": ["King Stephen", "King Richard I", "King Edward I"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the first pitched battle of the English Civil War ?",
+      "correct_answer": "Battle of Edge Hill",
+      "incorrect_answers": [
+        "Battle of Newbury",
+        "Battle of Naseby",
+        "Battle of Marston Moor"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which English Monarch was overthrown as a result of the Glorious Revolution of 1688 ?",
+      "correct_answer": "King James II",
+      "incorrect_answers": [
+        "King Edward VI",
+        "King Charles II",
+        "King William I"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year was the first act of Union Passed ?",
+      "correct_answer": "1707",
+      "incorrect_answers": ["1704", "1711", "1709"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which battle ended the Jacobite Uprising of 1745?",
+      "correct_answer": "Battle of Culloden",
+      "incorrect_answers": [
+        "Battle of Graveney Marsh",
+        "Battle of Preston",
+        "Battle of Sheriffmuir"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these companies was responsible for the devastating economic collapse of 1720?",
+      "correct_answer": "The Southsea Company",
+      "incorrect_answers": [
+        "The Hudson Bay Company",
+        "The Dutch West India Company",
+        "The British East India Company"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which British officer famously exclaimed 'By God, sir, I've lost my leg!' after being struck by a cannonball at the battle of Waterloo ? ",
+      "correct_answer": "Henry Paget, 2nd Earl of Uxbridge",
+      "incorrect_answers": [
+        "James Hay, Lord Hay and Lord Slains",
+        "Rowland Hill, 1st Viscount Hill",
+        "Lord Robert Edward Henry Somerset"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many British monarchs were Emperors / Empresses of India?",
+      "correct_answer": "5",
+      "incorrect_answers": ["4", "3", "6"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Arising in the 18 th Century, the Industrial Revolution was kick - started by which burgeoning British Industry ?",
+      "correct_answer": "Cotton",
+      "incorrect_answers": ["steel", "Coal", "Oil"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the Cat and Mouse Act of 1913 designed to prevent Suffragettes from doing?",
+      "correct_answer": "Going on hunger strike",
+      "incorrect_answers": [
+        "Smashing Windows",
+        "Holding violent protests",
+        "Spoiling census forms"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following War poets was killed in the final days of the Great War?",
+      "correct_answer": "Wilfred Owen",
+      "incorrect_answers": ["Isaac Rosenberg", "Rupert Brooke", "Edward Thomas"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "This pair of monarchs took the throne after the Glorious Bloodless Revolution of 1688.",
+      "correct_answer": "William and Mary",
+      "incorrect_answers": ["James and Alice", "Charles and Elizabeth"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Why was it called the Wars of the Roses ?",
+      "correct_answer": "Roses appeared on the shields of both families.",
+      "incorrect_answers": [
+        "The first battle was fought near a rose garden.",
+        "Roses were the favorite flower of Plantagenet matriarch Mary II."
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Norman king bested England 's King Harold II at the Battle of Hastings in 1066?",
+      "correct_answer": "William I",
+      "incorrect_answers": ["Robert II", "Louis III"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which king established the Church of England?",
+      "correct_answer": "Henry VIII",
+      "incorrect_answers": ["Edward III", "Henry VII"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which monarch holds the record for longest reign in English history ?",
+      "correct_answer": "Elizabeth II",
+      "incorrect_answers": ["Elizabeth I", "George III"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first nonroyal ruler of England ?",
+      "correct_answer": "Oliver Cromwell",
+      "incorrect_answers": ["Sir Thomas More", "Robert Walpole"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was Margaret Thatcher 's political party?",
+      "correct_answer": "Conservative",
+      "incorrect_answers": ["Liberal", "Labour"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which houses clashed in the Wars of the Roses ?",
+      "correct_answer": "Lancaster and York",
+      "incorrect_answers": ["Windsor and Aragon", "Cambridge and Donegal"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What percentage of British voters opted to leave the European Union in June 2016?",
+      "correct_answer": "51.9 percent",
+      "incorrect_answers": ["40.3 percent", "62.7 percent"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first prime minister of Great Britain?",
+      "correct_answer": "Robert Walpole",
+      "incorrect_answers": ["Henry John Temple", "Archibald Primrose"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country was excluded from the Kingdom of Great Britain when it was created in 1707?",
+      "correct_answer": "Ireland",
+      "incorrect_answers": ["Scotland", "Wales"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which border did the Treaty of York establish in 1237?",
+      "correct_answer": "England/Scotland",
+      "incorrect_answers": ["Ireland/Northern Ireland", "England/Wales"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the original British political parties evolved into today 's Conservative Party?",
+      "correct_answer": "Tories",
+      "incorrect_answers": ["Whigs", "Labour Party"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did Ireland secede from the United Kingdom?",
+      "correct_answer": "1922",
+      "incorrect_answers": ["1857", "1901"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "She was NOT one of Henry VIII 's wives.",
+      "correct_answer": "Alice of Lancashire",
+      "incorrect_answers": [
+        "Catherine Parr",
+        "Anne Boleyn",
+        "Anne of Cleves",
+        "Catherine Howard",
+        "Jane Seymour",
+        "Catherine of Aragon"
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many years did Queen Victoria reign?",
+      "correct_answer": "63",
+      "incorrect_answers": ["46", "77"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Why was Cromwell 's son Richard known as 'Tumbledown Dick'?",
+      "correct_answer": "He gave up power so easily.",
+      "incorrect_answers": [
+        "He fell during his inauguration.",
+        "After his reign he fell into poverty."
+      ]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who built Hadrian 's Wall?",
+      "correct_answer": "Romans",
+      "incorrect_answers": ["Celts", "Gauls"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first monarch from the following list?",
+      "correct_answer": "Richard III",
+      "incorrect_answers": ["James IV", "Charles II"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the Gunpowder Plot discovered and foiled?",
+      "correct_answer": "1605",
+      "incorrect_answers": ["1537", "1586"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How long did the German Blitz of England last during World War II?",
+      "correct_answer": "Eight months",
+      "incorrect_answers": ["Five months", "A year"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did Caesar land in Britain?",
+      "correct_answer": "55 B.C.E.",
+      "incorrect_answers": ["135 B.C.E.", "25 C.E."]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When was the monarchy restored?",
+      "correct_answer": "1660",
+      "incorrect_answers": ["1673", "1699"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the last Roman soldiers leave England?",
+      "correct_answer": "407 C.E.",
+      "incorrect_answers": ["338 C.E.", "986 C.E."]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many bombs were detonated when Islamic terrorists attacked London on July 7, 2005?",
+      "correct_answer": "4",
+      "incorrect_answers": ["8", "12"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Hundred Years ' War with France started in 1337. When did it end?",
+      "correct_answer": "1453",
+      "incorrect_answers": ["1437", "1480"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Nobel Prize did Winston Churchill win?",
+      "correct_answer": "Literature",
+      "incorrect_answers": ["Peace", "Economics"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 10th and 11th centuries, England was ruled by a long succession of E-named kings. This was NOT one of them.",
+      "correct_answer": "Edwine",
+      "incorrect_answers": ["Edgar", "Ethelred", "Edward"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the United Kingdom join the European Economic Community(EEC), the precursor to the European Union ?",
+      "correct_answer": "1973",
+      "incorrect_answers": ["1966", "1984"]
+    },
+    {
+      "category": "British History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "About one - third of London 's population died from this disease in 1348.",
+      "correct_answer": "Black Death",
+      "incorrect_answers": ["Polio", "Tuburculosis"]
+    }
+  ]
+}

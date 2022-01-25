@@ -1,0 +1,66 @@
+[
+    {
+        "name": "New South Wales",
+        "capital": "Sydney"
+    },
+    {
+        "name": "Queensland",
+        "capital": "Brisbane"
+    },
+    {
+        "name": "South Australia",
+        "capital": "Adelaide"
+    },
+    {
+        "name": "Tasmania",
+        "capital": "Hobart"
+    },
+    {
+        "name": "Victoria",
+        "capital": "Melbourne"
+    },
+    {
+        "name": "Western Australia",
+        "capital": "Perth"
+    },
+    {
+        "name": "Australian Capital Territory",
+        "capital": "Canberra"
+    },
+    {
+        "name": "Jervis Bay Territory",
+        "capital": "None (Jervis Bay Village)"
+    },
+    {
+        "name": "Northern Territory",
+        "capital": "Darwin"
+    },
+    {
+        "name": "Ashmore and Cartier Islands",
+        "capital": "None"
+    },
+    {
+        "name": "Australian Antarctic Territory",
+        "capital": "None (Davis Station)"
+    },
+    {
+        "name": "Christmas Island",
+        "capital": "Flying Fish Cove"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "capital": "West Island"
+    },
+    {
+        "name": "Coral Sea Islands",
+        "capital": "None (Willis Island)"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "capital": "None (Atlas Cove)"
+    },
+    {
+        "name": "Norfolk Island",
+        "capital": "Kingston"
+    }
+]

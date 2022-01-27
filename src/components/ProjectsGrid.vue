@@ -44,7 +44,7 @@ export default {
   height: 560px;
   object-fit: cover;
   transition: all 0.15s ease;
-  box-shadow: 0 0 40px -20px rgba(0,0,0,0.25);
+  /* box-shadow: 0 0 40px -20px rgba(0,0,0,0.25); */
 }
 .project-title {
   font-size: 1rem;
@@ -63,7 +63,7 @@ export default {
 }
 .project:hover .thumbnail {
   transform: scale(1.02);
-  box-shadow: 0 20px 40px -20px rgba(0,0,0,0.25);
+  /* box-shadow: 0 20px 40px -20px rgba(0,0,0,0.25); */
 }
 
 @media (min-width: 920px) {

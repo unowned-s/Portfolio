@@ -1,9 +1,8 @@
 <template>
   <footer class="footer">
     <div class="container copyright">
-      <span
-        >© {{ new Date().getFullYear() }} {{ settings.site_name }}.co.in</span
-      ><br />
+      <span>© {{ new Date().getFullYear() }} {{ settings.site_name }}.</span>
+      <br>
       <small v-html="settings.footer" />
     </div>
   </footer>
@@ -28,5 +27,9 @@ export default {
 .copyright {
   margin: 0 auto;
   text-align: center;
+}
+
+small {
+  color: gray;
 }
 </style>

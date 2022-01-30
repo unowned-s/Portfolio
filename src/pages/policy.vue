@@ -5,10 +5,10 @@
       <h1 class="terms-title">Privacy Policy</h1>
       <p>This document contains the Privacy Policy that apply to your use of the products/games/apps (hereinafter: the App) as offered on the Google Play store and the Apple App store. </p>
 
-      <br>These Privacy Policy are valid from 26-01-2022. The content of these Privacy Policy may change from time to time. For up-to-date information, please see https://www.{{settings.site_name}}/policy. If you have any questions, suggestions or
+      <p>These Privacy Policy are valid from 26-01-2022. The content of these Privacy Policy may change from time to time. For up-to-date information, please see https://www.{{settings.site_name}}/policy. If you have any questions, suggestions or
       complaints about the App and/or these Privacy Policy, please contact {{settings.contact_email}}</p>
 
-      <p>{{settings.site_name}} built the {{settings.letsplayq}} app as a Free app. This SERVICE is provided by {{settings.site_name}} at no cost and is intended for use as is.</p>
+      <p>This SERVICE is provided by {{settings.site_name}} at no cost and is intended for use as is.</p>
 
       <p>This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.</p>
 
